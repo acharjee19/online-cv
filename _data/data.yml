@@ -28,14 +28,11 @@ sidebar:
 
     interests:
       - item: Traveling
-        link:      
+        link:  
+        
       - item: Cooking
         link:
-    interests:
-      - item: Traveling
-        link:
-      - item: Gardening
-        link:
+    
 career-profile:
     title: Career Profile
     summary: |
@@ -50,7 +47,7 @@ education:
     - degree: MSc in Mathematices
       university: Shahjalal University of Science and Technology,Bangladesh
       time: 2006 - 2011
-       | details: |
+      details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -58,10 +55,11 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+          
     - degree: BSc in IT
       university: Metropolia UAS
       time: 2019 - 
-       details: |
+      details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
