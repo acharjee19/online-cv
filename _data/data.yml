@@ -108,7 +108,9 @@ experiences:
           - Bullet point
           - Bullet point
 projects:
-   
+   projects:
+    title: Projects
+    intro: >
       - title: Zapp
         link: "#"
         tagline: "Monitoring sleeping time ,counter mobile app"
