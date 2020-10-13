@@ -39,10 +39,15 @@ career-profile:
    
 education:
     - degree: MSc in Mathematices
-      university: Shahjalal University of Science and Technology,Bangladesh
-      
+      university: Shahjalal University of Science and Technology
+
       time: 2006 - 2011
-     
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
      details: |
         I have good knowledge of statistics and probability, Algorithom and Algebra.
         Apply mathematical theories techniques to solve practical problems
