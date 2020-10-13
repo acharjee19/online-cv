@@ -49,43 +49,30 @@ education:
       time: 2006 - 2011
       details: |
         I have good knowledge of statistics and probability, Algorithom and Algebra.
+        Apply mathematical theories techniques to solve practical problems
           
     - degree: BSc in IT
       university: Metropolia UAS
       time: 2019 - 
       details: |
-        I have knowledge instaliing and maintaining computer systems network.
+        IoT data management,networking,configuring system,IT security
 experiences:
     - role: Teacher
       time: 2013 - 2016
       company: Scholarshome School & college, Bangladesh.
       
     
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+     
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
-      - title: Velocity
+      - title: ZZapp
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Counter app"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-
+      
 skills:
     title: Skills &amp; Proficiency
 
