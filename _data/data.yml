@@ -36,12 +36,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+     I am now 2nd year IT student. I completed Msc in Mathematics.Now I want to start my career as a data Analyst.
    
 education:
     - degree: MSc in Mathematices
@@ -61,7 +56,11 @@ experiences:
       time: 2013 - 2016
       company: Scholarshome School & college, Bangladesh.
       
-    
+    experiences:
+    - role: Food and products machine operators
+      time: 2019 - still
+      company:Bama fresh cuts oy
+      
      
 projects:
     title: Projects
