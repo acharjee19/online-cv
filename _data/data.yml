@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: Juipinkijui@gmail.com
+    email: juipinkijui@gmail.com
     phone: 0405137495
     github: acharjee19
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -35,14 +35,14 @@ sidebar:
     
 career-profile:
     title: Career Profile
-    summary: |
-     I am now 2nd year IT student. I completed Msc in Mathematics.Now I want to start my career as a data Analyst.
+    summary: I am now 2nd year IT student. I completed Msc in Mathematics.Now I want to start my career as a data Analyst.
    
 education:
     - degree: MSc in Mathematices
       university: Shahjalal University of Science and Technology,Bangladesh
       time: 2006 - 2011
-      details: |
+     
+     details: |
         I have good knowledge of statistics and probability, Algorithom and Algebra.
         Apply mathematical theories techniques to solve practical problems
           
