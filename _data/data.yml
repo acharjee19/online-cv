@@ -48,54 +48,19 @@ education:
       university: Shahjalal University of Science and Technology,Bangladesh
       time: 2006 - 2011
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I have good knowledge of statistics and probability, Algorithom and Algebra.
           
     - degree: BSc in IT
       university: Metropolia UAS
       time: 2019 - 
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I have knowledge instaliing and maintaining computer systems network.
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
+    - role: Teacher
+      time: 2013 - 2016
+      company: Scholarshome School & college, Bangladesh.
+      
+    
       company: Amazon, London
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -106,12 +71,19 @@ experiences:
           - Bullet point
           - Bullet point
 projects:
-   projects:
     title: Projects
     intro: >
-      - title: Zapp
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
         link: "#"
-        tagline: "Monitoring sleeping time ,counter mobile app"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
 
 
 skills:
@@ -119,10 +91,10 @@ skills:
 
     toolset:
       - name: Python 
-        level: 98%
+        level: 40%
 
       - name: Mechine Learning
-        level: 98%
+        level: 20%
         
       - name: Sketch & Photoshop
         level: 60%
